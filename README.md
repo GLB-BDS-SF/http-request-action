@@ -1,3 +1,5 @@
+> [!CAUTION]
+> Archived: Contains security issues and is no longer in use.
 # HTTP Request Action
 
 **Create HTTP Requests from GitHub Actions.** This action allows GitHub events to engage with tools like Ansible AWX that use HTTP APIs.
